@@ -4,7 +4,7 @@
   "description": "",
   "type":"module",
   "scripts": {
-    "test:basic": "node --test 02-conditionals.test.js",
+    "test:basic": "node --test 03-functions.test.js",
     "test": "node --test --watch --test-reporter spec"
   },
   "keywords": [],
